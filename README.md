@@ -6,12 +6,15 @@ https://www.archives.gov/presidential-records/support-to-the-white-house/transit
 
 ## Sycophancy analysis
 One interesting aspect of the dataset (from my personal perspective) was the sycophancy towards the president that popped up explicitly in the Clinton transition, but was quite explicit in other materials. I decided to use this as a way to gauge the quality of AI models for qualitative analysis. 
+The main integrated model file is here:
+[Main theoretical model](outputs/theoretical_model/INTEGRATED_SYCOPHANCY_FRAMEWORK.md)
+You can browse the repository to find codebook, analyses of individual interviews, and the intermediate analyses.
 
 ## Method & tools
 more about that later!
 
 ## Other notes
-After conducting the analysis, I asked Claude Code to search online for research on "ingratiation" and make a structured comparison. I did not provide any other instructions. The result of that task is here:[
+After conducting the analysis, I asked Claude Code to search online for research on "ingratiation" and make a structured comparison. I did not provide any other instructions. The result of that task is here:
 [AI analysis of ingratiation literature](outputs/theoretical_model/ingratiation.md)
 
 ## More about me
