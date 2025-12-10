@@ -11,8 +11,8 @@ One interesting aspect of the dataset (from my personal perspective) was the syc
 more about that later!
 
 ## Other notes
-After conducting the analysis, I asked Claude Code to search online for research on "ingratiation" and make a structured comparison. I did not provide any other instructions. The result of that task is here:
-outputs/theoretical_model/ingratiation.md
+After conducting the analysis, I asked Claude Code to search online for research on "ingratiation" and make a structured comparison. I did not provide any other instructions. The result of that task is here:[
+[AI analysis of ingratiation literature](outputs/theoretical_model/ingratiation.md)
 
 ## More about me
 I am a professor at Aalto University and the co-founder & CEO of Skimle (https://skimle.com).
