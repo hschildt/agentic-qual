@@ -11,8 +11,8 @@ One interesting aspect of the dataset (from my personal perspective) was the syc
 more about that later!
 
 ## Other notes
-*"Excellent catch! The data shows ALL interviews from ALL 6 transitions were coded, but the framework only analyzed 4 transitions. Let me check the
-   memos to see where this divergence happened."*
+After conducting the analysis, I asked Claude Code to search online for research on "ingratiation" and make a structured comparison. I did not provide any other instructions. The result of that task is here:
+outputs/theoretical_model/ingratiation.md
 
 ## More about me
 I am a professor at Aalto University and the co-founder & CEO of Skimle (https://skimle.com).
